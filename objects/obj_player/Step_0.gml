@@ -20,7 +20,7 @@ obj_canon.speed = 0;
 
 
 if keyboard_check(ord("W")) {
- motion_add(image_angle-90,1)
+ motion_add(image_angle+90,1)
 
 }
 if keyboard_check(ord("A")) {
@@ -33,7 +33,7 @@ if keyboard_check(ord("D")) {
 }
 if keyboard_check(ord("S")) {
   
-	  motion_add(image_angle+90,1)
+	  motion_add(image_angle-90,1)
 
 }
 

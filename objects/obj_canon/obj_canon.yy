@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite5",
-    "path": "sprites/Sprite5/Sprite5.yy",
+    "name": "Gun_01_export",
+    "path": "sprites/Gun_01_export/Gun_01_export.yy",
   },
   "spriteMaskId": null,
   "visible": true,
