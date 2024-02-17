@@ -193,6 +193,7 @@
     {"name":"Gun_07_A147","order":19,"path":"sprites/Gun_07_A147/Gun_07_A147.yy",},
     {"name":"Sprite7","order":5,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"Gun_02203","order":3,"path":"sprites/Gun_02203/Gun_02203.yy",},
+    {"name":"obj_controls","order":10,"path":"objects/obj_controls/obj_controls.yy",},
     {"name":"Gun_04209","order":9,"path":"sprites/Gun_04209/Gun_04209.yy",},
     {"name":"Gun_04_B235","order":11,"path":"sprites/Gun_04_B235/Gun_04_B235.yy",},
     {"name":"Gun_0386","order":6,"path":"sprites/Gun_0386/Gun_0386.yy",},

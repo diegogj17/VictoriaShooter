@@ -223,6 +223,7 @@
     {"id":{"name":"Gun_07_A147","path":"sprites/Gun_07_A147/Gun_07_A147.yy",},},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
     {"id":{"name":"Gun_02203","path":"sprites/Gun_02203/Gun_02203.yy",},},
+    {"id":{"name":"obj_controls","path":"objects/obj_controls/obj_controls.yy",},},
     {"id":{"name":"Gun_04209","path":"sprites/Gun_04209/Gun_04209.yy",},},
     {"id":{"name":"Gun_04_B235","path":"sprites/Gun_04_B235/Gun_04_B235.yy",},},
     {"id":{"name":"Gun_0386","path":"sprites/Gun_0386/Gun_0386.yy",},},
