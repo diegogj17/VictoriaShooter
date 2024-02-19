@@ -1,11 +1,3 @@
-/// @description Inserte aquí la descripción
-// Puede escribir su código en este editor
-
-
-
-
-
-// Inherit the parent event
 event_inherited();
 
 draw_self();
@@ -20,3 +12,7 @@ draw_text(x,y+150,button_text3);
 
 draw_set_halign(fa_left);
 draw_set_valign(fa_top);
+
+
+
+

@@ -34,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "HUD_Text_Box",
-    "path": "sprites/HUD_Text_Box/HUD_Text_Box.yy",
+    "name": "HUD_Text_Box_Blue",
+    "path": "sprites/HUD_Text_Box_Blue/HUD_Text_Box_Blue.yy",
   },
   "spriteMaskId": null,
   "visible": true,

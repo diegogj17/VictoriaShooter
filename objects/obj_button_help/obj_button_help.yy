@@ -4,6 +4,7 @@
   "name": "obj_button_help",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [
@@ -33,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "HUD_Text_Box",
-    "path": "sprites/HUD_Text_Box/HUD_Text_Box.yy",
+    "name": "HUD_Text_Box_Blue",
+    "path": "sprites/HUD_Text_Box_Blue/HUD_Text_Box_Blue.yy",
   },
   "spriteMaskId": null,
   "visible": true,

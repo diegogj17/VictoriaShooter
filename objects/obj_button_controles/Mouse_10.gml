@@ -2,8 +2,5 @@
 // Puede escribir su código en este editor
 
 
-
-
-
-// Inherit the parent event
+image_alpha=0.6;
 
