@@ -37,3 +37,8 @@ if keyboard_check(ord("S")) {
 
 
 
+// Abrir el menu en partida
+
+if keyboard_check(vk_escape){
+room_goto(rm_menu)
+}
