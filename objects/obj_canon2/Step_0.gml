@@ -10,10 +10,10 @@ var shootCooldown = 60 * 1;
 
 
 if (canshoot && alarm[0] <= 0 ) {
-    if keyboard_check(vk_space) {
+    if gamepad_button_check(0,gp_face1) {
         canshoot = false;
         alarm[0] = shootCooldown;  // Establece el tiempo de espera a 0.5 segundos
-        instance_create_layer(x, y, "Instances", obj_bullet);
+        instance_create_layer(x, y, "Instances", obj_bullet2);
     } 
 
 }
@@ -29,16 +29,16 @@ if (shootCooldown > 0) {
     canshoot = true;  // Habilita la posibilidad de disparar cuando el tiempo de espera llega a cero
 }
 
-if keyboard_check(ord("W")) {
+if gamepad_button_check(0,gp_padu)  {
 
- x = obj_player.x
-	 y = obj_player.y
+ x = obj_player2.x
+	 y = obj_player2.y
 }
 
-if keyboard_check(ord("S")) {
+if gamepad_button_check(0,gp_padd) {
   
-	 x = obj_player.x
-	 y = obj_player.y
+	 x = obj_player2.x
+	 y = obj_player2.y
 
 }
 
