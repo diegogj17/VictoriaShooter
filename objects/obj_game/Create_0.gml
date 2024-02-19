@@ -12,4 +12,3 @@ obj_player2.image_angle += 180
 obj_canon2.depth = -1
 
 
-

@@ -99,6 +99,7 @@
     {"id":{"name":"Gun_07218","path":"sprites/Gun_07218/Gun_07218.yy",},},
     {"id":{"name":"Gun_06_A240","path":"sprites/Gun_06_A240/Gun_06_A240.yy",},},
     {"id":{"name":"Gun_04185","path":"sprites/Gun_04185/Gun_04185.yy",},},
+    {"id":{"name":"obj_opciones","path":"objects/obj_opciones/obj_opciones.yy",},},
     {"id":{"name":"nieve_crater","path":"sprites/nieve_crater/nieve_crater.yy",},},
     {"id":{"name":"Track_2_A","path":"sprites/Track_2_A/Track_2_A.yy",},},
     {"id":{"name":"Gun_07170","path":"sprites/Gun_07170/Gun_07170.yy",},},

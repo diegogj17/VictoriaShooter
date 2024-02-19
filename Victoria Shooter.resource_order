@@ -77,6 +77,7 @@
     {"name":"Gun_07218","order":18,"path":"sprites/Gun_07218/Gun_07218.yy",},
     {"name":"Gun_06_A240","order":16,"path":"sprites/Gun_06_A240/Gun_06_A240.yy",},
     {"name":"Gun_04185","order":9,"path":"sprites/Gun_04185/Gun_04185.yy",},
+    {"name":"obj_opciones","order":12,"path":"objects/obj_opciones/obj_opciones.yy",},
     {"name":"nieve_crater","order":5,"path":"sprites/nieve_crater/nieve_crater.yy",},
     {"name":"Track_2_A","order":2,"path":"sprites/Track_2_A/Track_2_A.yy",},
     {"name":"Gun_07170","order":18,"path":"sprites/Gun_07170/Gun_07170.yy",},
