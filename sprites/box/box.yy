@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "nieve_1_cruce",
-  "bbox_bottom": 127,
-  "bbox_left": 14,
-  "bbox_right": 127,
+  "name": "box",
+  "bbox_bottom": 74,
+  "bbox_left": 0,
+  "bbox_right": 74,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e64edb6f-7111-496a-a22c-b3798f17d433",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2ca05c81-0e28-47d4-b160-be681e18bcea",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 75,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1dae2267-d209-47fb-96b5-9decbc8e3de3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1610f174-79bd-4338-b8c9-4516efa476c1","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Mapa",
-    "path": "folders/Sprites/Mapa.yy",
+    "name": "Cobertura",
+    "path": "folders/Sprites/Cobertura.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "nieve_1_cruce",
+    "name": "box",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e64edb6f-7111-496a-a22c-b3798f17d433","path":"sprites/nieve_1_cruce/nieve_1_cruce.yy",},},},"Disabled":false,"id":"61847a03-437e-427f-b4bf-240a5b81e780","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"2ca05c81-0e28-47d4-b160-be681e18bcea","path":"sprites/box/box.yy",},},},"Disabled":false,"id":"944162eb-6171-4347-9ce3-5e0f25f2e9df","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 75,
 }
