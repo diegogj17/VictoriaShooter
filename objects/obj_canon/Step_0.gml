@@ -5,7 +5,7 @@
 var canshoot = true;
 
 // Variable para gestionar el tiempo de espera entre disparos
-var shootCooldown = 60 * 1;
+var shootCooldown = 60 * 0.3;
 
 
 

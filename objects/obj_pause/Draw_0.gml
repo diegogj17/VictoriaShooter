@@ -1,10 +1,18 @@
-/*if (pause)
-{
-	draw_set_color(c_black);
-	draw_rectangle(0,0,room_width,room_height,0);
-	draw_set_halign(fa_center);
-	draw_set_font(fnt_menu);
-	draw_set_color(c_white);
-	draw_text(room_width/2,room_height/2,"PAUSA- 1 para continuar");
-	draw_set_color(c_black);
-}*/
+if(pause){
+	if(!surface_exists(pause_surf)){
+		instance_deactivate_all(true);
+		pause_surf=surface_create(room_width,room_height);
+		surface_set_target(pause_surf);
+		draw_surface(application_surface,0,0);
+		surface_reset_target();
+	}else{
+		draw_surface(pause_surf,0,0);
+		draw_set_alpha(0.5);
+		draw_rectangle_color(0,0,room_width,room_height,c_black,c_black,c_black,c_black, false);
+		draw_text(x+500,y+500,"PAUSA");
+	}
+}else{
+	instance_activate_all();
+	surface_free(pause_surf);
+	pause_surf = -1;
+}

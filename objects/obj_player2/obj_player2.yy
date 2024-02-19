@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Hull_01_rz",
-    "path": "sprites/Hull_01_rz/Hull_01_rz.yy",
+    "name": "barco2",
+    "path": "sprites/barco2/barco2.yy",
   },
   "spriteMaskId": null,
   "visible": true,
