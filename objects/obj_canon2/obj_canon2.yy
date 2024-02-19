@@ -1,8 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player2",
+  "name": "obj_canon2",
   "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
@@ -28,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Hull_01_rz",
-    "path": "sprites/Hull_01_rz/Hull_01_rz.yy",
+    "name": "Gun_01_rz",
+    "path": "sprites/Gun_01_rz/Gun_01_rz.yy",
   },
   "spriteMaskId": null,
   "visible": true,
