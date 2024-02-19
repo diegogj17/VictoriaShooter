@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "nieve_1_cruce",
   "bbox_bottom": 127,
-  "bbox_left": 0,
+  "bbox_left": 14,
   "bbox_right": 127,
   "bbox_top": 0,
   "bboxMode": 0,

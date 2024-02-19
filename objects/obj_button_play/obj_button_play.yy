@@ -34,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "HUD_Text_Box_Green_Alt",
-    "path": "sprites/HUD_Text_Box_Green_Alt/HUD_Text_Box_Green_Alt.yy",
+    "name": "HUD_Text_Box",
+    "path": "sprites/HUD_Text_Box/HUD_Text_Box.yy",
   },
   "spriteMaskId": null,
   "visible": true,

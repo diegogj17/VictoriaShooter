@@ -35,6 +35,10 @@ if keyboard_check(ord("S")) {
 	  motion_add(image_angle-90,1)
 }
 
-// Asegúrate de que la función move_wrap tenga los parámetros correctos
-move_wrap(true, true, 50);
 
+
+// Abrir el menu en partida
+
+if keyboard_check(vk_escape){
+room_goto(rm_menu)
+}
