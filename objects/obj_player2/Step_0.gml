@@ -9,12 +9,12 @@ speed = 0
 
 
 if gamepad_button_check(0,gp_padu)  {
-	  	motion_add(image_angle + 90,1)
+	  	motion_add(image_angle + 90,_velocidad)
 
 }
 
 if gamepad_button_check(0,gp_padd) {
-	motion_add(image_angle - 90,1)
+	motion_add(image_angle - 90,_velocidad)
 
 }
 if gamepad_button_check(0,gp_padr) {
