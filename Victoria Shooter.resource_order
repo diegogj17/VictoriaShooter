@@ -244,6 +244,7 @@
     {"name":"Gun_05_A","order":13,"path":"sprites/Gun_05_A/Gun_05_A.yy",},
     {"name":"Gun_01_B178","order":2,"path":"sprites/Gun_01_B178/Gun_01_B178.yy",},
     {"name":"TileSet10","order":9,"path":"tilesets/TileSet10/TileSet10.yy",},
+    {"name":"obj_pause","order":15,"path":"objects/obj_pause/obj_pause.yy",},
     {"name":"Gun_07_B196","order":20,"path":"sprites/Gun_07_B196/Gun_07_B196.yy",},
     {"name":"Gun_01_A201","order":1,"path":"sprites/Gun_01_A201/Gun_01_A201.yy",},
     {"name":"rm_menu","order":1,"path":"rooms/rm_menu/rm_menu.yy",},

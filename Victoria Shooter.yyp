@@ -277,6 +277,7 @@
     {"id":{"name":"Gun_05_A","path":"sprites/Gun_05_A/Gun_05_A.yy",},},
     {"id":{"name":"Gun_01_B178","path":"sprites/Gun_01_B178/Gun_01_B178.yy",},},
     {"id":{"name":"TileSet10","path":"tilesets/TileSet10/TileSet10.yy",},},
+    {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},},
     {"id":{"name":"Gun_07_B196","path":"sprites/Gun_07_B196/Gun_07_B196.yy",},},
     {"id":{"name":"Gun_01_A201","path":"sprites/Gun_01_A201/Gun_01_A201.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
