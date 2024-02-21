@@ -147,6 +147,7 @@
     {"id":{"name":"Gun_08221","path":"sprites/Gun_08221/Gun_08221.yy",},},
     {"id":{"name":"Track_1_B","path":"sprites/Track_1_B/Track_1_B.yy",},},
     {"id":{"name":"Cruce4","path":"tilesets/Cruce4/Cruce4.yy",},},
+    {"id":{"name":"boxDestroy","path":"sprites/boxDestroy/boxDestroy.yy",},},
     {"id":{"name":"Gun_02227","path":"sprites/Gun_02227/Gun_02227.yy",},},
     {"id":{"name":"Gun_01200","path":"sprites/Gun_01200/Gun_01200.yy",},},
     {"id":{"name":"obj_button_main_menu","path":"objects/obj_button_main_menu/obj_button_main_menu.yy",},},
