@@ -6,9 +6,9 @@
 
 
 speed = 1;
-direction = random(360);
-image_angle = random(360);
-
+direction = image_angle-180;
+image_angle = image_angle-180;
+effect_create_above(ef_explosion, x, y, 1, c_white);
 
 
 
