@@ -10,5 +10,4 @@ instance_create_layer( room_width / 2  , 100,"Instances", obj_player2)
 instance_create_layer( obj_player2.x  ,obj_player2.y,"Instances", obj_canon2)
 obj_player2.image_angle += 180
 obj_canon2.depth = -1
-
-
+window_set_fullscreen(true)

@@ -17,12 +17,21 @@ obj_canon.speed = 0;
 	obj_canon.image_angle += 1.33
  }
 // Si canshoot es verdadero y no estamos en tiempo de espera
-
+var xinput = keyboard_check(ord("W"));
 
 if keyboard_check(ord("W")) {
- motion_add(image_angle+90,_velocidad)
+	if	( motion_add(image_angle+90,_velocidad) != caja.x - 40 ||  motion_add(image_angle+90,_velocidad) != caja.x + 40 ||  motion_add(image_angle+90,_velocidad) != caja.y - 40 ||  motion_add(image_angle+90,_velocidad) != caja.y + 40   ){
+		
+		 motion_add(image_angle+90,_velocidad)
+		 
+	}
+
+	 
+
 
 }
+
+
 if keyboard_check(ord("A")) {
    image_angle +=1.33 ;
 
@@ -31,8 +40,6 @@ if keyboard_check(ord("D")) {
      image_angle -=1.33;
 	  
 }
-if keyboard_check(ord("S")) {
-	  motion_add(image_angle-90,_velocidad)
-}
+move_wrap(true,true,1)
 
 

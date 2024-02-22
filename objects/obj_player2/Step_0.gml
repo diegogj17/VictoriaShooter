@@ -13,10 +13,7 @@ if gamepad_button_check(0,gp_padu)  {
 
 }
 
-if gamepad_button_check(0,gp_padd) {
-	motion_add(image_angle - 90,_velocidad)
 
-}
 if gamepad_button_check(0,gp_padr) {
    image_angle -=1.33 ;
 
@@ -40,3 +37,4 @@ if gamepad_button_check(0,gp_shoulderlb){
 	
 	
 }
+move_wrap(true,true,1)
