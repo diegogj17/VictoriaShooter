@@ -41,4 +41,9 @@ if gamepad_button_check(0,gp_padd) {
 	 y = obj_player2.y
 
 }
+if !instance_exists(obj_player2){
+instance_destroy(self)
+}
+
+
 

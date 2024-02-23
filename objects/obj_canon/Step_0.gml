@@ -41,4 +41,10 @@ if keyboard_check(ord("S")) {
 	 y = obj_player.y
 
 }
+if !instance_exists(obj_player){
+instance_destroy(self)
+}
+
+
+
 
