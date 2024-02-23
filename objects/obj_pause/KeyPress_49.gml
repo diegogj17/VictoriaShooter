@@ -1,1 +1,1 @@
-pause=false
+room_goto(Room1);
