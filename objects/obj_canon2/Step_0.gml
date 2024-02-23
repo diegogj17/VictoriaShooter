@@ -10,7 +10,7 @@ var shootCooldown = 60 * 1;
 
 
 if (canshoot && alarm[0] <= 0 ) {
-    if gamepad_button_check(0,gp_face1) {
+    if gamepad_button_check(0,gp_shoulderlb) {
         canshoot = false;
         alarm[0] = shootCooldown;  // Establece el tiempo de espera a 0.5 segundos
         instance_create_layer(x, y, "Instances", obj_bullet2);
@@ -29,7 +29,7 @@ if (shootCooldown > 0) {
     canshoot = true;  // Habilita la posibilidad de disparar cuando el tiempo de espera llega a cero
 }
 
-if gamepad_button_check(0,gp_padu)  {
+if gamepad_button_check(0,gp_shoulderrb)  {
 
  x = obj_player2.x
 	 y = obj_player2.y
