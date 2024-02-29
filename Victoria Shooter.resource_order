@@ -306,5 +306,6 @@
     {"name":"Track_3_B","order":5,"path":"sprites/Track_3_B/Track_3_B.yy",},
     {"name":"Gun_07_A99","order":19,"path":"sprites/Gun_07_A99/Gun_07_A99.yy",},
     {"name":"Gun_0592","order":12,"path":"sprites/Gun_0592/Gun_0592.yy",},
+    {"name":"obj_button_reset","order":18,"path":"objects/obj_button_reset/obj_button_reset.yy",},
   ],
 }

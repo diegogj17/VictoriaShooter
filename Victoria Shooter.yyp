@@ -343,6 +343,7 @@
     {"id":{"name":"Track_3_B","path":"sprites/Track_3_B/Track_3_B.yy",},},
     {"id":{"name":"Gun_07_A99","path":"sprites/Gun_07_A99/Gun_07_A99.yy",},},
     {"id":{"name":"Gun_0592","path":"sprites/Gun_0592/Gun_0592.yy",},},
+    {"id":{"name":"obj_button_reset","path":"objects/obj_button_reset/obj_button_reset.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

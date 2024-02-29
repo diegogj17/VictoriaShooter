@@ -12,4 +12,6 @@ instance_create_layer( obj_player2.x  ,obj_player2.y,"Instances", obj_canon2)
 obj_player2.image_angle += 270
 obj_canon2.image_angle += 90
 obj_canon2.depth = -1
-window_set_fullscreen(true)
+
+
+
