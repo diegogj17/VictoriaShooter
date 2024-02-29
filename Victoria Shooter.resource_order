@@ -175,6 +175,7 @@
     {"name":"butreques","order":7,"path":"tilesets/butreques/butreques.yy",},
     {"name":"Gun_06191","order":15,"path":"sprites/Gun_06191/Gun_06191.yy",},
     {"name":"Hull_05","order":4,"path":"sprites/Hull_05/Hull_05.yy",},
+    {"name":"snd_metal_2","order":7,"path":"sounds/snd_metal_2/snd_metal_2.yy",},
     {"name":"Gun_04_B163","order":11,"path":"sprites/Gun_04_B163/Gun_04_B163.yy",},
     {"name":"Gun_08149","order":21,"path":"sprites/Gun_08149/Gun_08149.yy",},
     {"name":"Gun_05236","order":12,"path":"sprites/Gun_05236/Gun_05236.yy",},

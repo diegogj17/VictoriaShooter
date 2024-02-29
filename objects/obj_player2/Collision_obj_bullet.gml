@@ -7,7 +7,7 @@ if vida == 0{
 audio_play_sound(snd_explosion,10,false);
 instance_destroy(self);
 }else{
-	audio_play_sound(snd_metal,10,false);
+	audio_play_sound(snd_metal_2,10,false);
 }
 effect_create_above(ef_explosion, x, y, 1, c_green);
 
