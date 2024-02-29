@@ -14,6 +14,7 @@ if (canshoot && alarm[0] <= 0 ) {
         canshoot = false;
         alarm[0] = shootCooldown;  // Establece el tiempo de espera a 0.5 segundos
         instance_create_layer(x, y, "Instances", obj_bullet);
+		audio_play_sound(snd_laser,10,false);
     } 
 
 }

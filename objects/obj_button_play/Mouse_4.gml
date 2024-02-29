@@ -7,4 +7,5 @@
 
 // Inherit the parent event
 event_inherited();
+audio_pause_sound(snd_sound_Intro);
 room_goto(Room1);

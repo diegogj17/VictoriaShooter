@@ -6,7 +6,6 @@
 
 
 speed = 0
-
 obj_canon.speed = 0;
 if instance_exists(self){
 

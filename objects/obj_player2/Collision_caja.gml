@@ -11,5 +11,6 @@
 speed = 1;
 direction = image_angle-180;
 image_angle = image_angle-180;
+audio_play_sound(snd_rebound,10,false);
 
 
