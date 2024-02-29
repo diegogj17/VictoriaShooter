@@ -7,7 +7,7 @@ var canshoot = true;
 // Variable para gestionar el tiempo de espera entre disparos
 var shootCooldown = 60 * 1;
 
-
+if instance_exists(obj_player2){                       
 
 if (canshoot && alarm[0] <= 0 ) {
     if gamepad_button_check(0,gp_shoulderlb) {
@@ -45,5 +45,5 @@ if !instance_exists(obj_player2){
 instance_destroy(self)
 }
 
-
+}
 

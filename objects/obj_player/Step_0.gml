@@ -8,7 +8,7 @@
 speed = 0
 
 obj_canon.speed = 0;
-
+if instance_exists(self){
 
  if keyboard_check(vk_right){	
 	obj_canon.image_angle -= 1.33
@@ -41,5 +41,5 @@ if keyboard_check(ord("D")) {
 	  
 }
 move_wrap(true,true,1)
-
+}               
 
